@@ -1,4 +1,6 @@
 fastapi
 uvicorn
 pymongo
+numpy
 scikit-learn
+xgboost
